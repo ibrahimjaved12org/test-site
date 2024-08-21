@@ -1,6 +1,6 @@
 {
   "term": "Spring",
-  "year": "2023",
+  "year": "2022",
   "level": [
     "Undergraduate"
   ],
@@ -14,21 +14,15 @@
     "content": "",
     "website": "test-site"
   },
-  "course_title": "ibrahim-test-site",
+  "course_title": "test-site",
   "hide_download": false,
-  "course_description": "ibrahim-test-site",
+  "course_description": "",
   "department_numbers": [
-    "2"
+    "1"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "125",
-  "course_image_thumbnail": {
-    "content": "",
-    "website": "test-site"
-  },
-  "learning_resource_types": [
-    "Activity Assignments"
-  ],
-  "site_uid": "d46d450b-a88b-4aa6-9646-837169a36442",
+  "primary_course_number": "test-site",
+  "learning_resource_types": [],
+  "site_uid": "a4b58974-7a81-44d8-a4dc-a6af74cc75ce",
   "site_short_id": "test-site"
 }
